@@ -1,2 +1,2 @@
-# LeeCode1000
+# LeetCode1000
 1,000 questions in LeeCode
